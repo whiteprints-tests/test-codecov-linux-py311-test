@@ -6,8 +6,15 @@
 
 from typing import Final
 
+from test_codecov_linux_py311_test.environment import (
+    ENVIRONMENT_FILE,
+    load_dotenv,
+)
 from test_codecov_linux_py311_test.package_metadata import __version__
 
 
 __all__: Final = ["__version__"]
 """Public module attributes."""
+
+
+load_dotenv(ENVIRONMENT_FILE)
