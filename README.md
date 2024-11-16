@@ -19,6 +19,7 @@ SPDX-License-Identifier: CC0-1.0
         <a href="https://github.com/whiteprints-tests/test-codecov-linux-py311-test/discussions"><img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/whiteprints-tests/test-codecov-linux-py311-test.svg?logo=GitHub"></a>
         <a href="https://spdx.dev/learn/areas-of-interest/licensing/"><img alt="SPDX Licensing" src="https://img.shields.io/badge/SPDX-licensing-0080FF.svg?logo=SPDX"/></a>
         <a href="https://www.contributor-covenant.org/version/2/1/code_of_conduct/"><img alt="contributor covenant badge" src="https://img.shields.io/badge/Contributor_Covenant-2.1-4BAAAA.svg?logo=contributorcovenant"/></a>
+        <a href="https://codecov.io/gh/whiteprints-tests/test-codecov-linux-py311-test" ><img alt="codecov badge" src="https://codecov.io/gh/whiteprints-tests/test-codecov-linux-py311-test/graph/badge.svg?token="/></a>
     </p>
 </div>
 
